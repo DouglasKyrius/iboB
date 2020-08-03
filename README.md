@@ -1,2 +1,3 @@
-[![Profile hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FiboB)](https://github.com/brentvollebregt/hit-counter)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iboB&show_icons=true&hide_title=true" />
+</div>
